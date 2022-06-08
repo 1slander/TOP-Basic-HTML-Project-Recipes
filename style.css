@@ -1,0 +1,72 @@
+* {
+  background-color: #DCD5BC ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1{
+  font-size: 30px;
+  text-align: center;
+
+}
+h2{
+  font-size: 25px;
+}
+h3{
+  font-size: 20px;
+}
+p, ul, ol {
+  color: rgb(54, 52, 52);
+  font-size: 18px;
+}
+strong{
+  color: black;
+}
+
+button{
+  font-size: 18px;
+  font-weight: bold;
+  background-color:#34252F ;
+  color: white;
+}
+
+
+/* Index */
+
+.web-title{
+  text-align: center;
+  font-size: 50px;
+  text-transform: uppercase;
+  font-family: "Times New Roman";
+}
+
+
+ul.home-page{
+  text-align: center;
+  list-style: none ;
+  text-transform: uppercase;
+
+}
+
+.home-list{
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+}
+
+/* Images */
+
+#burrito, #tuna-salad, #banana-bar {
+  height: 600px;
+  width: 600px;
+}
+/*
+#tuna-salad{
+  height: 600px;
+  width: 600px ;
+
+}
+
+#banana-bar{
+  height: 600px;
+  width: 600px;
+}*/
