@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin-recipes
 HTML basics: Food Recipes Website
 
 The aim of this first project on the TOP curriculum is to put into practice the basic HTML elements that have been explained through out the first unit of the foundation course, as well as start familiarizing with git commands.
@@ -22,3 +22,6 @@ And the very beginning I was quite lost on how it work, but definitely after wor
 
 I have personally found that the project was easy, I did felt quite confident and add a few extras.
 
+Edit:
+
+As part of the basic CSS exercises, we had to implement the basic CSS properties we have been learning into our HTML project.
